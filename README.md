@@ -21,7 +21,7 @@ npm run lint
 Build (Webpack or Rollup)
 ```
 npm run build
-npm run build:rollup
+npm run build:webpack
 ```
 
 
